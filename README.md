@@ -46,8 +46,7 @@ Software Developer with over 4 years of experience in delivering stable and main
 
 * **Academy of Technical and Art Applied Studies Belgrade** (School of Electrical and Computer Engineering)
     * *Bachelor's degree of New Computer Technologies* | 2018 - 2024
-* **Electrotechnical High School "Rade Končar"**, Belgrade
-    * *Computer Technician* | 2011 - 2015
+* **Electrotechnical High School "Rade Končar"**, Belgrade | 2011 - 2015
 
 ---
 
