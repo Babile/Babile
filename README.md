@@ -2,7 +2,14 @@
 
 ### 🚀 Software Developer from Belgrade, Serbia
 
-Software Developer with over 4 years of experience in delivering stable and maintainable software solutions. Focused on end-to-end development, improving existing systems, implementing features that directly support business operations, and designing clean, structured software architecture.
+![Open to Work](https://img.shields.io/badge/Open_to_Work-🟢_Active-green?style=for-the-badge)
+
+🎯 **Open to:** Software Developer / .NET Backend Roles · Enterprise CRM Solutions · Custom Website Development · SEO Optimization & Performance Tuning · Freelance & Contract Opportunities
+
+---
+
+### 💡 About Me
+Software Developer with over 4 years of experience in delivering stable and maintainable software solutions. Focused on end-to-end development, improving existing enterprise systems, and designing clean, structured software architecture. Additionally experienced in building custom, high-performance websites and optimizing them for search engines (SEO) to drive organic growth.
 
 ---
 
@@ -10,8 +17,9 @@ Software Developer with over 4 years of experience in delivering stable and main
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Core Languages** | `C#`, `Java`, `SQL`, `C/C++` |
+| **Core Languages** | `C#`, `SQL`, `Java`, `C/C++`, `PHP` |
 | **Frameworks & Web** | `.NET Core`, `.NET Framework`, `Entity Framework`, `HTML5`, `CSS3`, `JavaScript` |
+| **Web Dev & SEO** | `Website Development`, `SEO (Search Engine Optimization)`, `Technical SEO`, `Web Performance` |
 | **Architecture & APIs** | `Clean Architecture`, `Layered / Multi-tier`, `RESTful APIs`, `Microservices` |
 | **Databases & Tools** | `Visual Studio`, `SSMS`, `IIS`, `Git`, `BitBucket`, `Jira` |
 | **Methodologies & Practices** | `OOP`, `Agile/Scrum`, `CI/CD pipelines`, `Code Refactoring`, `Problem Solving` |
